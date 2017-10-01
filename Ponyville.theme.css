@@ -1,6 +1,10 @@
 //META{"name":"Ponyville","description":"A nice mlp backround.","author":"KarinaAE123","version":"1.0"}*//{}
 
-/*ChannelList*/
+/*Backround*/
+.app {
+    background-image: url(https://i.imgur.com/tMWYiad.png) !Important; 
+    background-size:cover !important;
+}
 .nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
     color: rgba(233, 113, 220, 1);	
 }

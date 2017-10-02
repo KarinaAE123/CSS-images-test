@@ -1,3 +1,1 @@
-# CSS-images-test
-Trying to make a theme for better discord. (I don't think the name of the repository is accurate but oh well)
-The Luna_backround theme does not contain my art, it belongs to sambaneko.
+The Luna_backround theme does not contain original art, it belongs to sambaneko. Please visit their website:http://www.spacecatsamba.com/.
